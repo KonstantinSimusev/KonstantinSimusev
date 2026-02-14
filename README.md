@@ -1,4 +1,4 @@
-# Привет, я Контантин 👋
+# Привет! Я Контантин 👋
 
 Веб‑разработка для меня — инструмент избавления от рутины.
 
@@ -21,6 +21,6 @@
 
 # Контакты
 
-- **E‑mail:** simussev.k@icloud.com;
-- **Telegram:** @simus_k;
-- **GitHub:** [KonstantinSimusev](https://github.com/KonstantinSimusev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/email/email-original.svg" alt="E‑mail" title="E‑mail" width="24" height="24" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" title="Telegram" width="24" height="24" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="24" height="24" />
