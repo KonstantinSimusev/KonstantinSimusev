@@ -21,6 +21,5 @@
 
 # Контакты
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/email/email-original.svg" alt="E‑mail" title="E‑mail" width="24" height="24" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" title="Telegram" width="24" height="24" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="24" height="24" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="24" height="24" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/telegram/telegram-original.svg" alt="Telegram" title="Telegram" width="24" height="24" />
