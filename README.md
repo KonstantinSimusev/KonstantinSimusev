@@ -1,8 +1,9 @@
 # Привет! Я Контантин 👋
 
+
 Веб‑разработка для меня — инструмент избавления от рутины.
 
-# Навыки
+#№ Навыки
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?raw=true" alt="JavaScript" title="JavaScript" width="24" height="24" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg?raw=true" alt="TypeScript" title="TypeScript" width="24" height="24" /> 
@@ -19,11 +20,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg?raw=true" alt="Figma" title="Figma" width="24" height="24" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg?raw=true" alt="Postman" title="Postman" width="24" height="24" />
 
-# Контакты
+### Контакты
 
-<a href="https://github.com/ваш_профиль">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="24" height="24" />
-</a>
-<a href="https://t.me/ваш_ник">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/telegram/telegram-original.svg" alt="Telegram" title="Telegram" width="24" height="24" />
-</a>
+- **E‑mail:** simussev.k@icloud.com
+- **Telegram:** [@simus_k](https://t.me/simus_k)
+- **GitHub:** [KonstantinSimusev](https://github.com/KonstantinSimusev)
