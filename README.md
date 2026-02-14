@@ -1,8 +1,8 @@
 # Привет! Я Контантин.
 
-**Мотивация к работе в IT** — интерес к созданию инструментов, автоматизирующих рутину.
+Веб‑разработка для меня — инструмент избавления от рутины.
 
-# Технологии и инструменты
+# Технологии
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?raw=true" alt="JavaScript" title="JavaScript" width="24" height="24" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg?raw=true" alt="TypeScript" title="TypeScript" width="24" height="24" /> 
