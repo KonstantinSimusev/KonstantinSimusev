@@ -2,7 +2,7 @@
 
 Веб‑разработка для меня — инструмент избавления от рутины.
 
-# Технологии
+# Навыки
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?raw=true" alt="JavaScript" title="JavaScript" width="24" height="24" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg?raw=true" alt="TypeScript" title="TypeScript" width="24" height="24" /> 
@@ -21,6 +21,6 @@
 
 # Контакты
 
-- **E‑mail:** simussev.k@icloud.com (предпочтительный способ связи);
+- **E‑mail:** simussev.k@icloud.com;
 - **Telegram:** @simus_k;
 - **GitHub:** [KonstantinSimusev](https://github.com/KonstantinSimusev)
